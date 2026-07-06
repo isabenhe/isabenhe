@@ -3,8 +3,7 @@
  **`Java Back-End Developer`**
 
 Olá! Eu sou Isabelle Fonseca, Desenvolvedora Java Back-End e formanda em Análise e Desenvolvimento de Sistemas. Atuo há mais de dois anos no desenvolvimento, manutenção e sustentação de aplicações Java em ambiente corporativo para o setor financeiro, utilizando tecnologias como Java, Struts, JPA, JDBC e SQL. 
-Meu principal interesse está em desenvolvimento Back-end, arquitetura de software e construção de APIs escaláveis.
-Atualmente, estou aprofundando meus conhecimentos em Spring Boot, APIs REST, microsserviços, Kafka e testes automatizados, desenvolvendo projetos para consolidar esses conhecimentos e evoluir continuamente como desenvolvedora.
+Possuo conhecimentos em Spring Boot, APIs REST, microsserviços, Kafka e testes automatizados, aplicando essas tecnologias em projetos pessoais para consolidar boas práticas e ampliar minha experiência no ecossistema Java.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/isabelle3010j/" target="_blank">
