@@ -2,12 +2,22 @@
 ---
  **`Java Back-End Developer`**
 
-Olá! Eu sou Isabelle Fonseca, Desenvolvedora Java Back-End e formanda em Análise e Desenvolvimento de Sistemas. Tenho mais de dois anos de experiência em ambiente corporativo, atuando no desenvolvimento, manutenção e sustentação de aplicações Java para o setor financeiro, trabalhando com tecnologias como Java, Struts, JPA, JDBC e SQL.
-Sou apaixonada por tecnologia e estou sempre buscando aprender algo novo. Atualmente aprofundo meus conhecimentos em Spring Boot, APIs REST, microsserviços, Kafka, testes automatizados e arquitetura de software, desenvolvendo projetos que compartilho aqui no GitHub para acompanhar minha evolução como desenvolvedora.
+Olá! Eu sou Isabelle Fonseca, Desenvolvedora Java Back-End e formanda em Análise e Desenvolvimento de Sistemas. Atuo há mais de dois anos no desenvolvimento, manutenção e sustentação de aplicações Java em ambiente corporativo para o setor financeiro, utilizando tecnologias como Java, Struts, JPA, JDBC e SQL. Tenho interesse especial em desenvolvimento Back-end, arquitetura de software e construção de APIs escaláveis.
+Atualmente, estou aprofundando meus conhecimentos em Spring Boot, APIs REST, microsserviços, Kafka e testes automatizados, desenvolvendo projetos para consolidar esses conhecimentos e evoluir continuamente como desenvolvedora.
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/isabelle3010j/" target="_blank">
+        <img
+            alt="LinkedIn"
+            title="LinkedIn"
+            width="40px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+        />
+    </a>
+</p>
 
 ---
-### 🤖 Linguagens e Tecnologias
+### 🚀 Stack Tecnológica
 
 <img 
     align="left" 
@@ -91,14 +101,6 @@ Sou apaixonada por tecnologia e estou sempre buscando aprender algo novo. Atualm
 />
 <img 
     align="left" 
-    alt="sql" 
-    title="sql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
-/>
-<img 
-    align="left" 
     alt="kafka" 
     title="kafka"
     width="30px" 
@@ -116,3 +118,23 @@ Sou apaixonada por tecnologia e estou sempre buscando aprender algo novo. Atualm
 
 <br/>
 <br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=isabenhe&show_icons=true&theme=tokyonight&locale=pt-br"
+  />
+
+<!-- <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isabenhe&layout=compact&theme=tokyonight"
+  /> -->
+
+</p>
